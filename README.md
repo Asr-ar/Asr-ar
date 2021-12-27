@@ -1,9 +1,7 @@
 
 ### Hello World, my name is Asrar
-####  I'm a Data Scientist ("
-Interested in discovering new analytical tools for building models with high accuracy,
-Specializes in building **machine learning models** in linear regression and Classification, as well as **Natural Language Processing (NLP)** 
-I am now working on integrating machine learning models with **deep learning** models.
+####  I'm a Data Scientist، who makes the data useful ("
+Specialized in  Exploratory Data Analysis, Supervised Machine Learning Algorithms( Linear Regression,Classification), Unsupervised Machine Learning( Natural Language Processing And Clustering), Deep Learning( Neural Networks and Images Preprocessing).
 
 
 Skills:  Python / Java / JS / HTML / CSS
